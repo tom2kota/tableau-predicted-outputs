@@ -1,5 +1,5 @@
-# tableau-predicted-outputs
-In the following example, we will analyse the data stored in the ```absent_predictions.csv```.
+# Tableau Predicted Outputs
+In the following example, we will analyse the data stored in the [absent_predictions.csv](https://github.com/tom2kota/tableau-predicted-outputs/blob/main/absent_predictions.csv)
 
 - We will visualize ‘Age’ against ‘Average Probability’ on a scatter plot using Tableau.
 - We will plot the different Groups with reasons for absence against ‘Probability’.
