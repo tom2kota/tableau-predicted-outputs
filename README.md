@@ -9,3 +9,5 @@ In the following example, we will analyse the data stored in the [absent_predict
 ------------------
 
 ## [Free Training Videos](https://www.tableau.com/learn/training/20204)
+
+### [Download Tableau Public](https://public.tableau.com/s/download/public/pc64)
